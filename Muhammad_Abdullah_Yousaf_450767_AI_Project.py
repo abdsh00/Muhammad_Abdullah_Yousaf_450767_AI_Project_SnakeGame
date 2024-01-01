@@ -2,10 +2,6 @@ import tkinter as tk
 import random
 import time
 
-import tkinter as tk
-import random
-import time
-
 class SnakeGame:
     def __init__(self, master):
         # Initialize the SnakeGame
